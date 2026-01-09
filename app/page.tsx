@@ -35,7 +35,7 @@ export default function Home() {
               href="/resume.pdf"
               className="rounded-md border border-slate-600 px-4 py-2 text-sm font-medium hover:border-emerald-400"
             >
-              Download Resume
+              Download My Resume
             </Link>
           </div>
         </section>
