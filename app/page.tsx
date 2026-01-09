@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
           <p className="max-w-xl text-slate-300">
             I design, automate, and operate reliable infrastructure using
-            cloud platforms, containers, and CI/CD. I care about fast,
+            cloud platforms, containers, and CI/CD. I care about fast, scalabale
             repeatable deployments and observable systems.
           </p>
           <div className="flex flex-wrap gap-3">
