@@ -11,7 +11,7 @@ export default function Home() {
             DevOps Engineer
           </p>
           <h1 className="text-4xl font-bold sm:text-5xl">
-            Hi, I&apos;m <span className="text-emerald-400">[Your Name]</span>.
+            Hi, I&apos;m <span className="text-emerald-400">Archibong Hashbury</span>.
           </h1>
           <p className="max-w-xl text-slate-300">
             I design, automate, and operate reliable infrastructure using
@@ -20,13 +20,13 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap gap-3">
             <Link
-              href="https://github.com/your-handle"
+              href="https://github.com/Hashbury1"
               className="rounded-md bg-emerald-500 px-4 py-2 text-sm font-medium text-slate-950 hover:bg-emerald-400"
             >
               View GitHub
             </Link>
             <Link
-              href="https://www.linkedin.com/in/your-handle"
+              href="https://www.linkedin.com/in/archibong-hashbury-efefiom-102046193"
               className="rounded-md border border-slate-600 px-4 py-2 text-sm font-medium hover:border-emerald-400"
             >
               LinkedIn
