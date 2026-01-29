@@ -76,8 +76,8 @@ export default function Home() {
               description="A simple, reliable Ethereum testnet deployment using Geth in dev mode for development and testing purposes.."
             />
             <ProjectCard
-              title="Terraform AWS Infrastructure Stack"
-              stack="Terraform · AWS · VPC · EC2 · RDS · S3 · CloudWatch"
+              title="Containerized python app to ECS and Fargate using Terraform"
+              stack="Terraform · AWS · Python · Docker · Fargate · Github Actions"
               link="https://github.com/Hashbury1/prod-devops-cicd"
               description="A Real time project to show a CICD Pipeline that builds, tests, scans, and deploys a containerized python app to ECS and AWS Fargate using Terraform for IaC, AWS IAM for security, Github Actions for Deployment.."
             />
