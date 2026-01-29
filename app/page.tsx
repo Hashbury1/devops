@@ -51,16 +51,16 @@ export default function Home() {
               Docker · Kubernetes · ECS
             </SkillCard>
             <SkillCard title="CI/CD">
-              GitHub Actions · GitLab CI · Argo CD · Jenkins
+              GitHub Actions · GitLab CI · Jenkins
             </SkillCard>
             <SkillCard title="IaC & Config">
-              Terraform · CloudFormation · Ansible
+              Terraform · CloudFormation
             </SkillCard>
             <SkillCard title="Observability">
-              Prometheus · Grafana · Loki · ELK
+              Prometheus · Grafana · ELK
             </SkillCard>
             <SkillCard title="Scripting">
-              Bash · Python · Go basics
+              Bash · Python · Solidity
             </SkillCard>
           </div>
         </section>
@@ -70,22 +70,22 @@ export default function Home() {
           <h2 className="mb-4 text-2xl font-semibold">Selected Projects</h2>
           <div className="space-y-6">
             <ProjectCard
-              title="Production‑grade CI/CD pipeline"
-              stack="GitHub Actions · Docker · Kubernetes · Argo CD · AWS"
-              link="https://github.com/your-handle/devops-ci-cd-demo"
-              description="End‑to‑end pipeline for a containerized app: build, test, security scans, image publishing, and progressive delivery to a Kubernetes cluster with automatic rollbacks."
+              title="Ethereum Private Testnet Deployment"
+              stack="Ethereum · Github actions · Node js · Docker · prometheus · Grafana"
+              link="https://github.com/Hashbury1/Private-Ethereum-Testnet"
+              description="A simple, reliable Ethereum testnet deployment using Geth in dev mode for development and testing purposes.."
             />
             <ProjectCard
               title="Terraform AWS Infrastructure Stack"
               stack="Terraform · AWS · VPC · EC2 · RDS · S3 · CloudWatch"
-              link="https://github.com/your-handle/terraform-aws-stack"
-              description="Modular Terraform configuration that provisions a highly available VPC, private subnets, RDS database, and monitoring dashboards with reusable modules."
+              link="https://github.com/Hashbury1/prod-devops-cicd"
+              description="A Real time project to show a CICD Pipeline that builds, tests, scans, and deploys a containerized python app to ECS and AWS Fargate using Terraform for IaC, AWS IAM for security, Github Actions for Deployment.."
             />
             <ProjectCard
-              title="Kubernetes Observability Platform"
-              stack="Kubernetes · Prometheus · Grafana · Loki"
-              link="https://github.com/your-handle/k8s-observability"
-              description="Deployed a monitoring stack for a k8s cluster including metrics, logs, and alerting rules, plus dashboards for app latency, error rates, and resource usage."
+              title="Monitoring EKS with CloudWatch and Prometheus"
+              stack="GitHub Actions · EKS · CloudWatch · Prometheus"
+              link="https://github.com/Hashbury1/monitoring-eks-cloudwatch"
+              description="Deployed a monitoring system with EKS with Cloudwatch and prometheus including metrics, logs, and alerting rules, plus dashboards for app latency, error rates, and resource usage."
             />
           </div>
         </section>
@@ -132,7 +132,7 @@ export default function Home() {
         </section>
 
         <footer className="py-6 text-xs text-slate-500">
-          © {new Date().getFullYear()} [Your Name]. Built with Next.js &amp;
+          © {new Date().getFullYear()} [Archibong Hashbury]. Built with Next.js &amp;
           Tailwind CSS.
         </footer>
       </div>
