@@ -45,10 +45,10 @@ export default function Home() {
           <h2 className="mb-4 text-2xl font-semibold">Skills</h2>
           <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
             <SkillCard title="Cloud">
-              AWS · Azure · GCP · IAM · Networking
+              AWS · Blockchain · Web3 Security
             </SkillCard>
             <SkillCard title="Containers & Orchestration">
-              Docker · Kubernetes · Helm · ECS
+              Docker · Kubernetes · ECS
             </SkillCard>
             <SkillCard title="CI/CD">
               GitHub Actions · GitLab CI · Argo CD · Jenkins
