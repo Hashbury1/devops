@@ -100,24 +100,23 @@ export default function Home() {
             <ul className="space-y-3 text-sm text-slate-300">
               <li>
                 <span className="font-semibold text-slate-100">
-                  DevOps Engineer · Company Name
+                  Application Tester · 525 System, Calabar
                 </span>{" "}
-                (2023 – Present) – Built CI/CD pipelines, implemented
-                infrastructure as code, and improved deployment reliability.
+                – Conducted end-to-end testing and
+                Performed manual, automated testing and deployment.
               </li>
               <li>
                 <span className="font-semibold text-slate-100">
-                  Cloud / Platform Engineer · Previous Company
+                  DevOps Engineer | IT Consultancy · Renovo Projects 
                 </span>{" "}
-                – Migrated workloads to cloud, introduced monitoring and
-                on‑call practices.
+                – Managed CI/CD pipelines for client projects, including automated deployments.
               </li>
             </ul>
           </div>
           <div id="contact">
             <h2 className="mb-4 text-2xl font-semibold">Contact</h2>
             <p className="mb-2 text-sm text-slate-300">
-              Open to DevOps / Platform / SRE roles.
+              Open to DevOps / Blockchain / SRE roles.
             </p>
             <p className="text-sm text-slate-300">
               Email:{" "}
@@ -125,7 +124,7 @@ export default function Home() {
                 href="mailto:you@example.com"
                 className="text-emerald-400 underline"
               >
-                you@example.com
+                efefiomarchibong@gmail.com
               </a>
             </p>
           </div>
