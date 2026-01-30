@@ -1,4 +1,4 @@
-# DevOpsn Portfolio
+# DevOps Portfolio
 
 [![Deployed with Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-hashbury1.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
