@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DevOpsn Portfolio
 
-## Getting Started
+[![Deployed with Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-hashbury1.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-First, run the development server:
+This repository hosts my professional portfolio, built with a focus on modern automation performance and seamless CI/CD integration. As a DevOps Engineer, I treat my personal site like any production-grade application: automated, scalable, and version-controlled.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technical Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **Framework:** [Node.js / Next.js] (Tailwind CSS for styling)
+* **Deployment:** Vercel (Edge Network)
+* **CI/CD:** GitHub Actions / Vercel Git Integration
+* **Monitoring:** Vercel Analytics & Speed Insights
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## DevOps Philosophy Applied
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Even for a static portfolio, I implement core DevOps practices:
 
-## Learn More
+1.  **Continuous Deployment (CD):** Every merge to `main` triggers an automated build and atomic deployment via Vercel.
+2.  **Environment Parity:** Using Vercel Preview Deployments to test UI changes in a staging environment before promoting to production.
+3.  **Automated Quality Gates:** ESLint and Prettier checks integrated into the git workflow to ensure code consistency.
+4.  **Performance Optimization:** Leveraging Vercel’s Edge Network and Image Optimization to ensure <1s load times globally.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
