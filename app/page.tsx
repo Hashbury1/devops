@@ -32,7 +32,7 @@ export default function Home() {
               LinkedIn
             </Link>
             <Link
-              href="/resume.pdf"
+              href="/https://docs.google.com/document/d/1uFLUbk_GpwTpOqvsMd5VLNFcBEzHL9BhwuZFWIDnt7I/edit?tab=t.0"
               className="rounded-md border border-slate-600 px-4 py-2 text-sm font-medium hover:border-emerald-400"
             >
               Download My Resume
@@ -121,7 +121,7 @@ export default function Home() {
             <p className="text-sm text-slate-300">
               Email:{" "}
               <a
-                href="mailto:you@example.com"
+                href="mailto:efefiomarchibong@gmail.com"
                 className="text-emerald-400 underline"
               >
                 efefiomarchibong@gmail.com
