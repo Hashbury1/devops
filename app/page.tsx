@@ -32,7 +32,7 @@ export default function Home() {
               LinkedIn
             </Link>
             <Link
-              href="/https://github.com/Hashbury1/devops/blob/main/Hashbury-Resume.docx"
+              href="/Hashbury-Resume.pdf"
               className="rounded-md border border-slate-600 px-4 py-2 text-sm font-medium hover:border-emerald-400"
             >
               Download My Resume
