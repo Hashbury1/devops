@@ -32,7 +32,7 @@ export default function Home() {
               LinkedIn
             </Link>
             <Link
-              href="/resume.pdf"
+              href="https://docs.google.com/document/d/1uFLUbk_GpwTpOqvsMd5VLNFcBEzHL9BhwuZFWIDnt7I/edit?usp=drive_link"
               className="rounded-md border border-slate-600 px-4 py-2 text-sm font-medium hover:border-emerald-400"
             >
               Download My Resume
